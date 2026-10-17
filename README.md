@@ -96,5 +96,5 @@ Onboarding / Offboarding (New Hire,Transfer), Mirror Permission
 
 <img src="https://i.imgur.com/9pqHWU7.png" height="40%" width="40%">
 
-If someone Leaves the Company dont delete its User Account  just Disable it maybe other employes need something from that User Account.
+If someone Leaves the Company dont delete it just Disable User Account maybe other employes need something from that User Account.
 
